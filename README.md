@@ -5,7 +5,7 @@
    🔭 I’m currently working on <a href="https://github.com/nuojs/dxbot">dxbot</a>
 </p>
 <p align="center">
- 💬 Ask me about : react, ws, api, web3
+ 💬 Ask me about : obfuscator, websocket, api, web3
 </p>
 <p align="center">
  ⚡ Fun fact : Code for fun ^_^
