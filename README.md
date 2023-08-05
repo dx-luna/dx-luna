@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm dx-xxxx</h1>
-<h3 align="center">A passionate frontend / AI developer</h3>
+<h3 align="center">A passionate software developer</h3>
 <p align="center">
    🔭 I’m currently working on <a href="https://github.com/nuojs/dxbot">dxbot</a>
 </p>
